@@ -1,2 +1,2 @@
 # E-commerce-System
-Online Ecommerce System using Spring boot (Update)
+Online E-commerce System using Spring boot
